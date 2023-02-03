@@ -27,21 +27,27 @@ console.log(emailUtentePropmt)
 
 // ESEGUIRE IL CONFRONTO DEI DATI
 if (emailUtenteArray[0] === emailUtentePropmt){
+    console.log(emailUtenteArray[0])
     console.log('true')
 }
 else if (emailUtenteArray[1] === emailUtentePropmt){
+    console.log(emailUtenteArray[1])
     console.log('true')
 }
 else if (emailUtenteArray[2] === emailUtentePropmt){
+    console.log(emailUtenteArray[2])
     console.log('true')
 }
 else if (emailUtenteArray[3] === emailUtentePropmt){
+    console.log(emailUtenteArray[3])
     console.log('true')
 }
 else if (emailUtenteArray[4] === emailUtentePropmt){
+    console.log(emailUtenteArray[4])
     console.log('true')
 }
 else if (emailUtenteArray[5] === emailUtentePropmt){
+    console.log(emailUtenteArray[5])
     console.log('true')
 }
 else{
